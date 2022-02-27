@@ -1,5 +1,6 @@
 # btree-sort
 Sorting records stored on disk using B Tree structure. Records are sorted according to suplementary keys. 
+Useful in big database structures, where you cannot afford storing the whole file in operative memory.
 
 There are two modes of operation:
 
